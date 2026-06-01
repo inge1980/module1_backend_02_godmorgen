@@ -44,10 +44,3 @@ A simple console-based program written in C# that provides a personalized greeti
 ## Language
 
 This program uses Norwegian language for user interface messages.
-
----
-
-Files:
-- `Program.cs` ? main source file with greeting and input validation logic.
-
-If you want, I can also add a short example output section, translate messages to English, or run the program locally and paste a sample run here.
